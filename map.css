@@ -1,0 +1,10 @@
+   cuerpo {
+        margen : 0 ;
+        acolchado : 0 ;
+    }
+    # mapa {
+        posición : absoluta;
+        arriba : 0 ;
+        abajo : 0 ;
+        ancho : 100 % ;
+    }
